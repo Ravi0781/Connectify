@@ -30,9 +30,6 @@ A groupchat andriod app developed using flutter and firebase
 
 ### Homescreen
 
-- Homescreen has 2 options. For new users, they have to register, while existing users can go to the lgoin page.
-![App Screenshot](https://github.com/KunalVatsKV/FlashChat-Flutter/blob/main/screenshots/homescreen.png?raw=true)
-
 
 ### Registration and Login Screen
 

@@ -1,5 +1,5 @@
 
-# FlashChat
+# Connectify
 
 A groupchat andriod app developed using flutter and firebase
 
